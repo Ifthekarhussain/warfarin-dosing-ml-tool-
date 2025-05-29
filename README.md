@@ -60,6 +60,16 @@ This project implements a complete **end-to-end machine learning pipeline** to p
 3. Install required packages (`pandas`, `scikit-learn`, `matplotlib`, `gradio`)  
 4. Run all cells to see model predictions and launch Gradio app
 
+
+## 🚀 Live Demo
+
+🔗 Try the interactive Warfarin dose prediction tool here:  
+👉 [Launch Gradio App](https://38418be05f8f61d359.gradio.live/)
+
+> Enter patient info (age, weight, genotype, etc.) to get an instant dosage prediction and classification (High or Low).
+
+   
+
 ## 📜 Disclaimer
 
 This project is for educational purposes only and should not be used for real medical decisions. Always consult a healthcare professional.
